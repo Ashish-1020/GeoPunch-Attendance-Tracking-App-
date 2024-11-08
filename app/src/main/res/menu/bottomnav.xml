@@ -1,0 +1,24 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/navigation_analytics"
+        android:icon="@drawable/ic_home"
+        android:title="Analytics"
+      />
+    <item
+        android:id="@+id/navigation_add_employee"
+        android:icon="@drawable/ic_records"
+        android:title="New Employee"
+         />
+    <item
+        android:id="@+id/navigation_add_office"
+        android:icon="@drawable/ic_profile"
+        android:title="New Office"
+      />
+    <item
+        android:id="@+id/navigation_leave_management"
+        android:icon="@drawable/day"
+        android:title="Leave Management"/>
+
+</menu>

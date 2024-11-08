@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoPunch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mock">Click \"Select Mock Location app\" in Developer Options</string>
+    <string name="nothing">Select \"Nothing\" in the given Options</string>
+</resources>

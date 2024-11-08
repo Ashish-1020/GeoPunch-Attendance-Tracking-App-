@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#38E214</color>
+    <color name="orange">#45D2D7</color>
+    <color name="green_transparent">#A5E087</color>
+    <color name="colorPrimary">#008080</color>
+    <color name="colorSecondary">#FF0000</color>
+    <color name="slidetoact_white">#FFFFFF</color>
+    <color name="slidetoact_defaultAccent">#FF4081</color>
+</resources>

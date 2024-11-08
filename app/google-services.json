@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952348401558",
+    "project_id": "geopunch-c11ec",
+    "storage_bucket": "geopunch-c11ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952348401558:android:43d7a5b414ffa32b6147b7",
+        "android_client_info": {
+          "package_name": "com.example.geopunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6cDZGKyNe3xJgAZTor4N_ZbLVJoouFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
