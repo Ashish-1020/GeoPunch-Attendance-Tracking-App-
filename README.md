@@ -10,26 +10,8 @@ GeoPunch is a powerful attendance tracking solution designed to streamline check
 GeoPunch optimizes workforce management by reducing manual attendance errors and providing a user-friendly interface for both employees and administrators. 🤝✨       
    
 🎥 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=tvHM_ccQD_I)  
+🎥 [Screenshots of the App](https://drive.google.com/drive/folders/1lMkINlZcBE7pPGkfhyjYIXLMTivuHv5v?usp=drive_link)
 
-
-
-Screenshot of the APP    
-Login     
-![WhatsApp Image 2024-11-08 at 12 15 27_a5d528fd](https://github.com/user-attachments/assets/d02f0ace-9954-49e8-b0af-031ef643a014)        
-Permissions    
-![WhatsApp Image 2024-11-08 at 12 23 40_f07b643f](https://github.com/user-attachments/assets/3d012012-ab82-4982-bde5-698498846c73)         
-![WhatsApp Image 2024-11-08 at 12 23 39_ca766ee5](https://github.com/user-attachments/assets/c02c8354-0ce6-4fe5-bccd-b40581df6d14)      
-Fake Location Detection   
-![WhatsApp Image 2024-11-08 at 12 23 39_523dc327](https://github.com/user-attachments/assets/55672e68-da09-43f8-8a6e-d636bfa4a30e)   
-Home Section(CheckIN and CheckOUT)   
-![WhatsApp Image 2024-11-08 at 12 23 37_4fad804e](https://github.com/user-attachments/assets/6ced529d-9bdb-4da4-9942-47f973eb876c)   
-![WhatsApp Image 2024-11-08 at 12 23 37_74e3fb07](https://github.com/user-attachments/assets/4640caae-c6d4-49c8-97af-0dbf32ddaf4f)   
-![WhatsApp Image 2024-11-08 at 12 15 27_397d1c33](https://github.com/user-attachments/assets/7af2a577-71dd-47e6-b210-f0ea21e87a29)   
-Record Section    
-![WhatsApp Image 2024-11-08 at 12 15 26_facbe8c9](https://github.com/user-attachments/assets/3775515d-a9c4-462f-a6ff-89669d4144b2)     
-![WhatsApp Image 2024-11-08 at 12 23 36_6101afd1](https://github.com/user-attachments/assets/9e504893-010e-44d7-b4e0-ea4783494fab)     
-Profile Section   
-![WhatsApp Image 2024-11-08 at 12 15 26_84260ea4](https://github.com/user-attachments/assets/071b8252-7d21-4f92-997d-41c1ab16a07e)  
 
 
 
